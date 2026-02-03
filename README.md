@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Shoaib Khan
-**A passionate SDE Aspirant || Open Source Contributor || Computer Engineering Student from India**
+**A passionate SDE Aspirant || Open Source Contributor || Computer Science Engineering Student from India**
 
 Email Me 👉 ✉️ **shoaib.cse.engineer@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 

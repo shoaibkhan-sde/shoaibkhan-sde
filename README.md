@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **shoaib.cse.engineer@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently focused on:** Sharpening skills in Data Structures & Algorithms (DSA) and building small-scale web projects. 
+- 🔭 **I’m currently focused on:** Sharpening skills in Data Structures & Algorithms (DSA) and building scalable web projects. 
 - 🌱 **I’m currently learning:** Full-Stack Development (MERN), modern database optimization, and object-oriented design principles.
 - 🤔 **I’m looking for help with:** Mastering Git/GitHub advanced features for large projects and interview preparation for SDE internships.
 - 📫 **How to reach me:** shoaib.cse.engineer@gmail.com

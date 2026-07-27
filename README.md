@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **shoaib.cse.engineer@gmail.com** For Collaboration/Project
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shoaibkhan-sde&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🌐 Socials:
+## 🌐 ShoAib's Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibkhan-sde) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaib.cse.engineer@gmail.com)
 
 <!-- Snake Game Repo View -->

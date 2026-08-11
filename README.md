@@ -132,34 +132,6 @@ const shoaib = {
 </tr>
 </table>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=shoaibkhan-sde&theme=nightowl&hide_border=false" height="180"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=shoaibkhan-sde&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" height="180" /></td>
-  </tr>
-</table>
-
-<br/>
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibkhan-sde&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180" /></td>
-    <td align="center"><img src="https://github-contributor-stats.vercel.app/api?username=shoaibkhan-sde&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180"/></td>
-  </tr>
-</table>
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shoaibkhan-sde&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibkhan-sde&custom_title=Shoaib's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="100%"/>

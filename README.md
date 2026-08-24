@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="shoaibkhan-sde's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Shoaib%20Khan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=SDE%20Aspirant%20|%20Open%20Source%20Contributor%20|%20CSE%20Student&descAlignY=55&descAlign=50" width="100%"/>
 

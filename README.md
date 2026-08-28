@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="light_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dark_mode.svg" />
-  <img alt="shoaibkhan-sde's GitHub profile" src="dark_mode.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="shoaibkhan-sde's GitHub profile" src="dark_mode.svg" />
 </picture>
 
 <!-- Animated Header -->

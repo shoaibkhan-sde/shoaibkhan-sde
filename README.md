@@ -4,12 +4,6 @@
   <img alt="shoaibkhan-sde's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-<!-- SEO About Section -->
-## 👨‍💻 About Shoaib Khan
-
-I am **Shoaib Khan**, a **B.E. in Computer Science and Engineering (3rd Year)** student at **Padmashri Dr. V.B. Kolte College of Engineering**, with an expected graduation year of **2028**.  
-I am an aspiring **Software Development Engineer (SDE)** focused on **Data Structures & Algorithms, Full-Stack MERN Development, and core Computer Science fundamentals**.
-
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Shoaib%20Khan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Code.%20Build.%20Learn.%20Repeat.&descAlignY=58&descAlign=50" width="100%"/>
 

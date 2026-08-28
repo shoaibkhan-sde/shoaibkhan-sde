@@ -4,12 +4,18 @@
   <img alt="shoaibkhan-sde's GitHub profile" src="dark_mode.svg" />
 </picture>
 
+<!-- SEO About Section -->
+## 👨‍💻 About Shoaib Khan
+
+I am **Shoaib Khan**, a **B.E. in Computer Science and Engineering (3rd Year)** student at **Padmashri Dr. V.B. Kolte College of Engineering**, with an expected graduation year of **2028**.  
+I am an aspiring **Software Development Engineer (SDE)** focused on **Data Structures & Algorithms, Full-Stack MERN Development, and core Computer Science fundamentals**.
+
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Shoaib%20Khan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=SDE%20Aspirant%20|%20Open%20Source%20Contributor%20|%20CSE%20Student&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Shoaib%20Khan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Code.%20Build.%20Learn.%20Repeat.&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Solving+one+Problem+at+a+Time+%F0%9F%92%BB;Building+with+the+MERN+Stack+%F0%9F%9A%80;DSA+%7C+Web+Dev+%7C+Open+Source+%F0%9F%8C%B1;Always+Debugging%2C+Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Solving+one+Problem+at+a+Time+🚀;Building+Projects+that+Matter+💻;Future+SDE+in+the+Making+✨" alt="Typing animation" />
 </div>
 
 <br/>
@@ -25,7 +31,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/shoaibkhan-sde?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/shoaibkhan-sde&query=$.stars&label=Stars&style=for-the-badge&color=00D9FF&labelColor=000000&logo=github" alt="Total Stars" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/shoaibkhan-sde&query=$.stars&label=Stars&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Stars" />
   </a>
 </div>
 
@@ -37,6 +43,9 @@
 const shoaib = {
     pronouns: "He" | "Him",
     location: "India 🇮🇳",
+    education: "B.E. in Computer Science and Engineering (3rd Year)",
+    college: "Padmashri Dr. V.B. Kolte College of Engineering",
+    expectedGraduation: 2028,
     role: "SDE Aspirant | CSE Engineering Student",
     currentFocus: ["Data Structures & Algorithms", "Full-Stack (MERN)", "System Design Basics"],
     funFact: "The only thing I love more than solving a hard problem is the feeling right before the solution clicks 💡",
@@ -140,7 +149,7 @@ const shoaib = {
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibkhan-sde&custom_title=Shoaib's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibkhan-sde&custom_title=Shoaib's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=00D9FF&area=true" width="100%"/>
 
 ## 🎯 Current Focus
 

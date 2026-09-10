@@ -9,7 +9,11 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Solving+one+Problem+at+a+Time+🚀;Building+Projects+that+Matter+💻;Future+SDE+in+the+Making+✨" alt="Typing animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Solving+one+Problem+at+a+Time+%F0%9F%9A%80;Building+Projects+that+Matter+%F0%9F%92%BB;Future+SDE+in+the+Making+%E2%9C%A8"
+    alt="Typing animation"
+    style="display: block; margin: 0 auto;"
+  />
 </div>
 
 <br/>

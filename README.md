@@ -109,6 +109,9 @@ const shoaib = {
 </p>
 
 ## 🛠️ Tech Arsenal
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="coding gif" />
+</p>
 
 <table align="center" width="100%">
 <tr>

@@ -148,9 +148,21 @@ const shoaib = {
 </tr>
 </table>
 
-## 📈 Contribution Graph
+## 📈 GitHub Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibkhan-sde&custom_title=Shoaib's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=00D9FF&area=true" width="100%"/>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shoaibkhan-sde&theme=github_dark"
+    alt="GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibkhan-sde&theme=transparent&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
 
 ## 🎯 Current Focus
 

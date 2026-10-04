@@ -142,7 +142,7 @@ const shoaib = {
 <h3 align="center">🧰 Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" />
-  <img src="Google-Antigravity-Icon-Full-Color.svg" height="48" />
+  <img src="antigravity_rounded_under_1MB-removebg-preview.png" height="56" />
 </p>
 
 </td>

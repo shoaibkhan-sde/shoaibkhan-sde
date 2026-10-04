@@ -119,7 +119,7 @@ const shoaib = {
 
 <h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,markdown&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,markdown&theme=dark&perline=4" />
 </p>
 
 <br/>

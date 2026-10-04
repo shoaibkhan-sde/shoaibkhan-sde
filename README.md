@@ -117,9 +117,9 @@ const shoaib = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🎨 Frontend</h3>
+<h3 align="center"><img src="icons8-frontend-50.apng.png" height="48" /> <div>Frontend</div></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,markdown&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,markdown&theme=dark&perline=4" />
 </p>
 
 <br/>
@@ -132,7 +132,7 @@ const shoaib = {
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">💻 Languages</h3>
+<h3 align="center"><img src="icon_loop_100x100.gif" height="48" /><div>Languages</div></h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark&perline=4" />
 </p>
@@ -142,6 +142,7 @@ const shoaib = {
 <h3 align="center">🧰 Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" />
+  <img src="Google-Antigravity-Icon-Full-Color.svg" height="48" />
 </p>
 
 </td>

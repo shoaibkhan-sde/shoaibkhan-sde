@@ -21,7 +21,7 @@
 <!-- Quick Badges -->
 <div align="center">
   <a href="https://github.com/shoaibkhan-sde">
-    <img src="https://komarev.com/ghpvc/?username=shoaibkhan-sde&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=shoaibkhan-sde&base=300&color=00D9FF&style=for-the-badge&label=Profile%20Views" alt="Views" />
   </a>
   &nbsp;
   <a href="https://github.com/shoaibkhan-sde?tab=followers">

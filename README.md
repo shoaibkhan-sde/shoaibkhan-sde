@@ -151,7 +151,9 @@ const shoaib = {
 </tr>
 </table>
 
-## 📈 GitHub Stats
+<h2>
+  <img src="github.apng.png" height="36" align="absmiddle" /> GitHub Stats
+</h2>
 
 <p align="center">
   <img

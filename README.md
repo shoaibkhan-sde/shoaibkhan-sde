@@ -117,16 +117,17 @@ const shoaib = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="icons8-frontend-50.apng.png" height="48" /> <div>Frontend</div></h3>
+<h3 align="center"><img src="frontend.apng" height="48" /> <div>Frontend</div></h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,markdown&theme=dark&perline=4" />
 </p>
 
 <br/>
 
-<h3 align="center">🔮 Backend & Database</h3>
+<h3 align="center"><img src="server.apng.png" height="48" /><div>Backend & Database</div></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=3" />  
+  <img src="https://skillicons.dev/icons?i=ai" height="56" />
 </p>
 
 </td>
@@ -139,7 +140,7 @@ const shoaib = {
 
 <br/>
 
-<h3 align="center">🧰 Tools</h3>
+<h3 align="center"><img src="toolbox.png" height="48" /><div>Tools</div></h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" />
   <img src="antigravity_rounded_under_1MB-removebg-preview.png" height="56" />

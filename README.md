@@ -48,16 +48,15 @@ const shoaib = {
     expectedGraduation: 2028,
     role: "SDE Aspirant | CSE Engineering Student",
     currentFocus: ["Data Structures & Algorithms", "Full-Stack (MERN)", "System Design Basics"],
-    funFact: "The only thing I love more than solving a hard problem is the feeling right before the solution clicks 💡",
 
     languages: ["C++", "Java", "Python", "JavaScript"],
     technologies: {
-        frontEnd: ["React", "HTML", "CSS", "Markdown"],
+        frontEnd: ["React", "Next.js", "HTML", "CSS", "Markdown"],
         backEnd: ["Node.js", "Express.js"],
         databases: ["MongoDB"],
         tools: ["Git", "GitHub"]
     },
-    currentlyLearning: ["Advanced Git/GitHub workflows", "Database Optimization", "OOP Design Principles"],
+    currentlyLearning: ["core CS subjects","System Design Fundamentals"],
     lookingForHelp: ["Mastering Git for large-scale projects", "SDE Internship Interview Prep"],
     askMeAbout: ["DSA", "MERN Stack", "Competitive Programming"],
     reachMe: "shoaib.cse.engineer@gmail.com"
@@ -121,45 +120,31 @@ const shoaib = {
 </p>
 
 <table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center"><img src="frontend.apng" height="48" /> <div>Frontend</div></h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,markdown&theme=dark&perline=5" />
-</p>
-
-<br/>
-
-<h3 align="center"><img src="server.apng.png" height="48" /><div>Backend & Database</div></h3>
-<p align="center">
-  <!-- <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=3" />  
-  <img src="https://skillicons.dev/icons?i=ai" height="56" /> -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,ai&theme=dark&perline=4" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center"><img src="icon_loop_100x100.gif" height="48" /><div>Languages</div></h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark&perline=4" />
-</p>
-
-<br/>
-
-<h3 align="center"><img src="toolbox.png" height="48" /><div>Tools</div></h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" />
-  <img src="antigravity_rounded_under_1MB-removebg-preview.png" height="49"/>
-</p>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center"><img src="frontend.apng" height="48" /><br/>Frontend</h3>      
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,markdown&theme=dark&perline=4" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center"><img src="icon_loop_100x100.gif" height="48" /><br/>Languages</h3>
+      <img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark&perline=4" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center"><img src="server.apng.png" height="48" /><br/>Backend &amp; Database</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=4" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center"><img src="toolbox.png" height="48" /><br/>Tools</h3>      
+      <img src="https://skillicons.dev/icons?i=git,github,ai&theme=dark&perline=4" /><br/>
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=4" />&nbsp;&nbsp;<img src="antigravity.png" height="47" />     
+    </td>
+  </tr>
 </table>
 
 <h2>
-  <img src="github.apng.png" height="36" align="absmiddle" /> GitHub Stats
+  <img src="stats.gif" height="38" align="absmiddle" /> GitHub Stats
 </h2>
 
 <p align="center">
@@ -201,9 +186,11 @@ Full-Stack (MERN):
   - Authentication & Authorization
 
 Core CS:
-  - Object-Oriented Design
-  - Database Optimization
-  - Git/GitHub Advanced Workflows
+  - Operating Systems
+  - Database Management Systems
+  - Computer Networks
+  - Object-Oriented Programming & Design Principles
+  - System Design Fundamentals
 ```
 
 </td>
@@ -256,5 +243,7 @@ Long Term:
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=fadeIn" />
-  <img src="github-cat.gif" height="150" align="absmiddle" />
+  <div align="center">
+    <img src="github-cat.gif" height="150" align="absmiddle" />
+  </div>
 </div>

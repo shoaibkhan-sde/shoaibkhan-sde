@@ -35,7 +35,9 @@
 
 <br/>
 
-## 🎯 About Me
+<h2>
+  <img src="about.apng.png" height="36" align="absmiddle" /> About Me
+</h2>
 
 ```typescript
 const shoaib = {
@@ -92,7 +94,9 @@ const shoaib = {
 
 <br/>
 
-## 🌍 Connect with Me
+<h2>
+  <img src="connect.apng.png" height="36" align="absmiddle" /> Connect with Me
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shoaibkhan-sde">
@@ -108,7 +112,10 @@ const shoaib = {
   </a>
 </p>
 
-## 🛠️ Tech Arsenal
+<h2>
+  <img src="programmer.gif" height="40" align="absmiddle" /> Tech Stack
+</h2>
+
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="coding gif" />
 </p>
@@ -169,13 +176,18 @@ const shoaib = {
   />
 </p>
 
-## 🎯 Current Focus
+
+<h2>
+  <img src="focus.apng.png"" height="34" align="absmiddle" /> Current Focus
+</h2>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🚀 Learning Path</h3>
+<h2 align="center">
+  <img src="path.apng.png"" height="30" align="absmiddle" /> Learning Path
+</h2>
 
 ```yaml
 Data Structures & Algorithms:
@@ -197,7 +209,9 @@ Core CS:
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">💡 Goals</h3>
+<h2 align="center">
+  <img src="goal.apng.png"" height="30" align="absmiddle" /> Goals
+</h2>
 
 ```yaml
 Short Term:
@@ -215,33 +229,26 @@ Long Term:
 </tr>
 </table>
 
-## 💬 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-## 🎯 Fun Facts About Me
-
-✅ The only thing I love more than solving a hard problem is the feeling right before the solution clicks 💡  
-✅ I can go from debugging a segfault in C++ to styling a React component in the same afternoon  
-✅ Believer in **clean code**, **consistent commits**, and **learning in public**
-
 ---
 
-## 💖 Show Some Love!
+<h2>
+  <img src="heart.apng.png"" height="38" align="absmiddle" /> Show Some Love!
+</h2>
 
-💖 **Drop a star** ⭐ on my repositories if you like my work!  
-🤝 **Fork** and **contribute** to make them even better!  
-📢 Let's connect and build something great together!
+<p>
+  <img src="star.apng.png" height="20" align="absmiddle" /> <b>Drop a star</b> on my repositories if you like my work!<br>
+  <img src="handshake.gif" height="20" align="absmiddle" /> <b>Fork</b> and <b>contribute</b> to make them even better!<br>
+  <img src="megaphone.gif" height="20" align="absmiddle" /> Let's connect and build something great together!<br>
+</p>
 
-<div align="center">
+<p align="center">
+  <b>Made with ❤️ by <a href="https://github.com/shoaibkhan-sde">Shoaib Khan</a></b>
+  <img src="made.apng.png" height="20" align="absmiddle" />
+</p>
 
-**🌟 Made with ❤️ by [Shoaib Khan](https://github.com/shoaibkhan-sde) 🌟**
-
-*"The only thing I love more than solving a hard problem is the feeling right before the solution clicks."*
-
-</div>
+<p align="center">
+  <i>"The only thing I love more than solving a hard problem is the feeling right before the solution clicks."</i>
+</p>
 
 ---
 

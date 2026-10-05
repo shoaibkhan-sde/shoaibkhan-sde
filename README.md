@@ -156,7 +156,7 @@ const shoaib = {
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibkhan-sde&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=shoaibkhan-sde&theme=transparent&hide_border=true"
     alt="GitHub streak"
   />
 </p>

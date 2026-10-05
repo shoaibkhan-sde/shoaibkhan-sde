@@ -112,7 +112,7 @@ const shoaib = {
 </p>
 
 <h2>
-  <img src="programmer.gif" height="40" align="absmiddle" /> Tech Stack
+  <img src="programmer_transparent.gif" height="40" align="absmiddle" /> Tech Stack
 </h2>
 
 <p align="center">
@@ -144,7 +144,7 @@ const shoaib = {
 </table>
 
 <h2>
-  <img src="stats.gif" height="38" align="absmiddle" /> GitHub Stats
+  <img src="stats_transparent.gif" height="38" align="absmiddle" /> GitHub Stats
 </h2>
 
 <p align="center">
@@ -224,8 +224,8 @@ Long Term:
 
 <p>
   <img src="star.apng.png" height="20" align="absmiddle" /> <b>Drop a star</b> on my repositories if you like my work!<br>
-  <img src="handshake.gif" height="20" align="absmiddle" /> <b>Fork</b> and <b>contribute</b> to make them even better!<br>
-  <img src="megaphone.gif" height="20" align="absmiddle" /> Let's connect and build something great together!<br>
+  <img src="handshake_transparent (2).gif" height="20" align="absmiddle" /> <b>Fork</b> and <b>contribute</b> to make them even better!<br>
+  <img src="handshake_transparent (1).gif" height="20" align="absmiddle" /> Let's connect and build something great together!<br>
 </p>
 
 <p align="center">

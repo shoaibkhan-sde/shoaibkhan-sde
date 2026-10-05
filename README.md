@@ -256,4 +256,5 @@ Long Term:
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=fadeIn" />
+  <img src="github-cat.gif" height="150" align="absmiddle" />
 </div>

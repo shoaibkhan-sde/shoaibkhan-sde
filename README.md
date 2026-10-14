@@ -20,16 +20,13 @@
 
 <!-- Quick Badges -->
 <div align="center">
-  <a href="https://github.com/shoaibkhan-sde">
-    <img src="https://komarev.com/ghpvc/?username=shoaibkhan-sde&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Views" />
-  </a>
   &nbsp;
   <a href="https://github.com/shoaibkhan-sde?tab=followers">
-    <img src="https://img.shields.io/github/followers/shoaibkhan-sde?logo=github&style=for-the-badge&color=00ff41&labelColor=000000&label=Followers" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/shoaibkhan-sde?logo=github&amp;style=for-the-badge&amp;color=00ff41&amp;labelColor=000000&amp;label=Followers" alt="Followers" />
   </a>
   &nbsp;
   <a href="https://github.com/shoaibkhan-sde?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/shoaibkhan-sde&query=$.stars&label=Stars&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Stars" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/shoaibkhan-sde&amp;query=$.stars&amp;label=Stars&amp;style=for-the-badge&amp;color=00D9FF&amp;labelColor=000000" alt="Stars" />
   </a>
 </div>
 

@@ -231,7 +231,7 @@ Long Term:
 </p>
 
 <p align="center">
-  <i>"The only thing I love more than solving a hard problem is the feeling right before the solution clicks."</i>
+  <i>"Don't be ashamed of using AI. Be ashamed of shipping code you don't understand."</i>
 </p>
 
 ---

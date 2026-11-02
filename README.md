@@ -119,7 +119,7 @@ const shoaib = {
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3 align="center"><img src="frontend.apng" height="48" /><br/>Frontend</h3>      
+      <h3 align="center"><img src="assets/frontend.apng" height="48" /><br/>Frontend</h3>      
       <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,markdown&theme=dark&perline=4" />
     </td>
     <td width="50%" valign="top" align="center">

@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="light_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dark_mode.svg" />
-  <img alt="shoaibkhan-sde's GitHub profile" src="dark_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/light_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/dark_mode.svg" />
+  <img alt="shoaibkhan-sde's GitHub profile" src="assets/dark_mode.svg" />
 </picture>
 
 <!-- Animated Header -->
@@ -33,7 +33,7 @@
 <br/>
 
 <h2>
-  <img src="about.apng.png" height="36" align="absmiddle" /> About Me
+  <img src="assets/about.apng.png" height="36" align="absmiddle" /> About Me
 </h2>
 
 ```typescript
@@ -91,7 +91,7 @@ const shoaib = {
 <br/>
 
 <h2>
-  <img src="connect.apng.png" height="36" align="absmiddle" /> Connect with Me
+  <img src="assets/connect.apng.png" height="36" align="absmiddle" /> Connect with Me
 </h2>
 
 <p align="center">
@@ -109,7 +109,7 @@ const shoaib = {
 </p>
 
 <h2>
-  <img src="programmer_transparent.gif" height="40" align="absmiddle" /> Tech Stack
+  <img src="assets/programmer_transparent.gif" height="40" align="absmiddle" /> Tech Stack
 </h2>
 
 <p align="center">
@@ -123,25 +123,25 @@ const shoaib = {
       <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,markdown&theme=dark&perline=4" />
     </td>
     <td width="50%" valign="top" align="center">
-      <h3 align="center"><img src="icon_loop_100x100.gif" height="48" /><br/>Languages</h3>
+      <h3 align="center"><img src="assets/icon_loop_100x100.gif" height="48" /><br/>Languages</h3>
       <img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark&perline=4" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3 align="center"><img src="server.apng.png" height="48" /><br/>Backend &amp; Database</h3>
+      <h3 align="center"><img src="assets/server.apng.png" height="48" /><br/>Backend &amp; Database</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=4" />
     </td>
     <td width="50%" valign="top" align="center">
-      <h3 align="center"><img src="toolbox.png" height="48" /><br/>Tools</h3>      
+      <h3 align="center"><img src="assets/toolbox.png" height="48" /><br/>Tools</h3>      
       <img src="https://skillicons.dev/icons?i=git,github,ai&theme=dark&perline=4" /><br/>
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=4" />&nbsp;&nbsp;<img src="antigravity.png" height="47" />     
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=4" />&nbsp;&nbsp;<img src="assets/antigravity.png" height="47" />     
     </td>
   </tr>
 </table>
 
 <h2>
-  <img src="stats_transparent.gif" height="38" align="absmiddle" /> GitHub Stats
+  <img src="assets/stats_transparent.gif" height="38" align="absmiddle" /> GitHub Stats
 </h2>
 
 <p align="center">
@@ -160,7 +160,7 @@ const shoaib = {
 
 
 <h2>
-  <img src="focus.apng.png"" height="34" align="absmiddle" /> Current Focus
+  <img src="assets/focus.apng.png"" height="34" align="absmiddle" /> Current Focus
 </h2>
 
 <table align="center" width="100%">
@@ -168,7 +168,7 @@ const shoaib = {
 <td width="50%" valign="top">
 
 <h2 align="center">
-  <img src="path.apng.png"" height="30" align="absmiddle" /> Learning Path
+  <img src="assets/path.apng.png"" height="30" align="absmiddle" /> Learning Path
 </h2>
 
 ```yaml
@@ -194,7 +194,7 @@ Core CS:
 <td width="50%" valign="top">
 
 <h2 align="center">
-  <img src="goal.apng.png"" height="30" align="absmiddle" /> Goals
+  <img src="assets/goal.apng.png"" height="30" align="absmiddle" /> Goals
 </h2>
 
 ```yaml
@@ -216,18 +216,18 @@ Long Term:
 ---
 
 <h2>
-  <img src="heart.apng.png"" height="38" align="absmiddle" /> Show Some Love!
+  <img src="assets/heart.apng.png"" height="38" align="absmiddle" /> Show Some Love!
 </h2>
 
 <p>
-  <img src="star.apng.png" height="20" align="absmiddle" /> <b>Drop a star</b> on my repositories if you like my work!<br>
-  <img src="handshake_transparent (2).gif" height="20" align="absmiddle" /> <b>Fork</b> and <b>contribute</b> to make them even better!<br>
-  <img src="handshake_transparent (1).gif" height="20" align="absmiddle" /> Let's connect and build something great together!<br>
+  <img src="assets/star.apng.png" height="20" align="absmiddle" /> <b>Drop a star</b> on my repositories if you like my work!<br>
+  <img src="assets/handshake_transparent (2).gif" height="20" align="absmiddle" /> <b>Fork</b> and <b>contribute</b> to make them even better!<br>
+  <img src="assets/handshake_transparent (1).gif" height="20" align="absmiddle" /> Let's connect and build something great together!<br>
 </p>
 
 <p align="center">
   <b>Made with ❤️ by <a href="https://github.com/shoaibkhan-sde">Shoaib Khan</a></b>
-  <img src="made.apng.png" height="20" align="absmiddle" />
+  <img src="assets/made.apng.png" height="20" align="absmiddle" />
 </p>
 
 <p align="center">
@@ -241,6 +241,6 @@ Long Term:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=fadeIn" />
   <div align="center">
-    <img src="Animated Octocat Coding Loop.gif" height="150" align="absmiddle" />
+    <img src="assets/Animated Octocat Coding Loop.gif" height="150" align="absmiddle" />
   </div>
 </div>
